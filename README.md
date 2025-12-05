@@ -40,6 +40,7 @@ Verify installation in terminal:
 bash
 node --version
 npm --version
+
 2. Project Creation
 
 Using the recommended tool Vite:
@@ -51,6 +52,7 @@ This command:
 Downloads Vite tools
 Creates project folder with basic structure
 Sets up React with necessary configuration
+
 3. Project Structure Created
 
 4. Installing Dependencies
@@ -71,12 +73,14 @@ npm run dev
 Starts local development server at http://localhost:5173
 Enables hot module replacement (instant updates)
 Provides development tools and error overlays
+
 6. Building for Production
 
 bash
 npm run build
 Creates optimized, minified files in dist/ folder
 Ready for deployment to web hosting services
+
 7. Version Control Setup
 
 bash
@@ -86,6 +90,7 @@ git commit -m "Initial commit"
 Initialize Git repository
 Track all project files
 Commit the initial setup
+
 8. Deployment to GitHub
 
 bash
